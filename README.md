@@ -24,7 +24,6 @@ When I'm not working with data, I enjoy reading, crocheting and travelling. I lo
 ## 🔭 What I'm Currently Working On 
 
 - **Expanding My Analytics Portfolio:** Building end to end analytics projects  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **FIFA 2026 World Cup Analysis:** Creating an interactive dashboard in Power BI.
 
 ## 🌱 Currently Learning 
