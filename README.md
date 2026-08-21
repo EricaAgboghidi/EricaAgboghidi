@@ -9,7 +9,8 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/erica-agboghidi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/X-follow-black"></a>
+  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/X-follow-black">
+"></a>
   <a href="mailto:ericawealth1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
